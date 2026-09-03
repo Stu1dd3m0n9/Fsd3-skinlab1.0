@@ -48,3 +48,7 @@ Making skins:
 
 MIT — © 2026 StoicDemon. See LICENSE. The tools listed above are separate
 works by their authors; fetch them yourself, they are never bundled here.
+
+## Reminder
+
+Please submit bug reports and i will fix them when i have time
