@@ -17,8 +17,8 @@ anyone else's work.
 Easiest: download `Fsd3SkinStudio-1.0-windows.zip` from the Releases page,
 unzip it anywhere, and run `Fsd3SkinStudio.exe`. No Python needed.
 
-From source: install Python, run `pip install -r requirements.txt`, then
-`python app.py`.
+From source: install Python, run `pip install -r source/requirements.txt`,
+then `python source/app.py`. All program files live in `source/`.
 
 ## How to use
 
